@@ -2,6 +2,9 @@
     padding: 50px 0;
     background-color: crimson;
 }
+.hero {
+  background-color: aqua;
+}
 .footer {
     padding: 50px 0;
     background-color: bisque;
